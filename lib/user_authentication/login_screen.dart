@@ -2,11 +2,9 @@
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 import 'package:lottie/lottie.dart';
 import 'package:shubham_test/auth/authen.dart';
 import 'package:shubham_test/dash/bottomnavigation.dart';
-import 'package:shubham_test/otp_screen/otp_s1.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
